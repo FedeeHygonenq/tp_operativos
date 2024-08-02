@@ -7,7 +7,7 @@ TP realizado para la materia de Ingeniería en Sistemas de Información: Sistema
 @[lucasvazz16](https://github.com/lucasvazz16)
 @[benitezcamila](https://github.com/benitezcamila)
 
-
+## Aclaraciones del tp
 
 Objetivos del Trabajo Práctico
 Mediante la realización de este trabajo se espera que el alumno:
