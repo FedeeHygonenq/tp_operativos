@@ -2,10 +2,10 @@ TP realizado para la materia de Ingeniería en Sistemas de Información: Sistema
 ![image](https://github.com/user-attachments/assets/31f48116-997c-42ec-856a-02587d938cc4)
 
 ## Integrantes
-@tomasdn [GitHub Pages](https://github.com/tomasdn)
-@MarcoSzapar [GitHub Pages](https://github.com/MarcoSzapar)
-@lucasvazz16 [GitHub Pages](https://github.com/lucasvazz16)
-@benitezcamila [GitHub Pages](https://github.com/benitezcamila)
+@[tomasdn](https://github.com/tomasdn)
+@[MarcoSzapar](https://github.com/MarcoSzapar)
+@[lucasvazz16](https://github.com/lucasvazz16)
+@[benitezcamila](https://github.com/benitezcamila)
 
 
 
