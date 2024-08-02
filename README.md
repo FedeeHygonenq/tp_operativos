@@ -1,11 +1,12 @@
 TP realizado para la materia de Ingeniería en Sistemas de Información: Sistemas operativos 
 ![image](https://github.com/user-attachments/assets/31f48116-997c-42ec-856a-02587d938cc4)
 
-##Integrantes
-@tomasdn
-@MarcoSzapar
-@lucasvazz16 
-@benitezcamila
+## Integrantes
+@tomasdn [GitHub Pages](https://github.com/tomasdn)
+@MarcoSzapar [GitHub Pages](https://github.com/MarcoSzapar)
+@lucasvazz16 [GitHub Pages](https://github.com/lucasvazz16)
+@benitezcamila [GitHub Pages](https://github.com/benitezcamila)
+
 
 
 Objetivos del Trabajo Práctico
